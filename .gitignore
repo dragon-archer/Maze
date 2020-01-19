@@ -1,0 +1,19 @@
+#############################################
+# @file  : .gitignore
+# @brief : The Git Ignore file
+# @since : v0.0.1
+# @author: dragon-archer
+# This file is part of the Maze repository
+# It is published under the MIT License
+# Copyright (C) 2019-2020 dragon-archer
+#############################################
+
+# Visual Studio
+.vs/
+
+# CMake
+build/
+CMakeSettings.json
+
+# CPack
+pack/
